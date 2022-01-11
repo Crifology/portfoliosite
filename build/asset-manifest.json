@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6cb62ee6.css",
+    "main.js": "/static/js/main.6610a377.js",
+    "static/media/digitalgeo.mp4": "/static/media/digitalgeo.cd5473b8a60c81ae2eaf.mp4",
+    "static/media/spacetheme.mp4": "/static/media/spacetheme.217bc138c2eb8d98fc50.mp4",
+    "static/media/wollybeach.jpg": "/static/media/wollybeach.8443fb34b81af95fedad.jpg",
+    "static/media/smallme.png": "/static/media/smallme.e2619e52232a8062691c.png",
+    "static/media/DoctorComp.png": "/static/media/DoctorComp.1beea5c65bcfa217306a.png",
+    "static/media/pizzahutt.png": "/static/media/pizzahutt.6e9d4e29343e1fe33e50.png",
+    "index.html": "/index.html",
+    "main.6cb62ee6.css.map": "/static/css/main.6cb62ee6.css.map",
+    "main.6610a377.js.map": "/static/js/main.6610a377.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6cb62ee6.css",
+    "static/js/main.6610a377.js"
+  ]
+}
